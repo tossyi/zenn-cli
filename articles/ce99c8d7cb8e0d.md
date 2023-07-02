@@ -3,7 +3,7 @@ title: "XGenを試す"
 emoji: "🦔"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [python, AI, LLM]
-published: false
+published: true
 ---
 
 # XGenとは
