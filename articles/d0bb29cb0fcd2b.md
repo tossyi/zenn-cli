@@ -348,7 +348,7 @@ Linkはuserにbelongs_toで紐づきます。
 `app/models/link.rb`
 ```ruby
 class Link < ApplicationRecord
-    belongs_to :user
+    belongs_to :user, optional: true
 end
 ```
 
